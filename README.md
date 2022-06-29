@@ -8,7 +8,7 @@ Status: Desenvolvimento ✅
 
 >2. E também uma ao pressionar o botão tocar, que utilizará a composição vinda do Input.
 
-## Imagem
+## Picture
 ![Bateria](https://user-images.githubusercontent.com/79663619/176559489-9f48b757-d65e-4f69-984a-019013f96756.png)
 
 ## Bateria 
