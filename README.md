@@ -4,7 +4,7 @@ Status: Finalizado ✅
 
  Essa aplicação foi desenvolvida com o objetivo de exercitar o conhecimento básicos de programação. 
 
->1. Nela foi será possivel reproduzir ao pressinar as teclas **"Q, W, E, A, S, D, Z, X e C"**.
+>1. Nela foi será possivel reproduzir ao pressinar as teclas **"Q, W, E, A, S, D, Z, X, C"**.
 
 >2. E também uma ao pressionar o botão tocar, que utilizará a composição vinda do Input.
 
