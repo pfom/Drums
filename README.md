@@ -1,6 +1,6 @@
 # Sobre o Projeto
 
-Status: Desenvolvimento ✅
+Status: Finalizado ✅
 
  Essa aplicação foi desenvolvida com o objetivo de exercitar o conhecimento básicos de programação. 
 
