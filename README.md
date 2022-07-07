@@ -14,7 +14,7 @@ Status: Finalizado ✅
 ## Bateria 
 A **bateria** define e marca o compasso mais rápido ou mais lento de uma melodia, atribuindo uma cadência própria e “energia” a cada performance.
 
-## Nesse projeto foi utilizadas
+## Nesse projeto foi utilizado:
 >* HTML
 >* CSS
 >* JAVASCRIPT
